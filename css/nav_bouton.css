@@ -19,6 +19,7 @@ header nav ul li{
     width:13%; /* 132px; */
     font-weight: bolder;
    background-color:#1f90ff ;
+  
 }
 header nav ul li a{
     display:block;
